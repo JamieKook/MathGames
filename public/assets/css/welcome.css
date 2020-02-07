@@ -12,3 +12,7 @@ li {
     font-size: 1rem; 
     list-style: none;
 }
+
+.register {
+    max-width: 600px;
+}
